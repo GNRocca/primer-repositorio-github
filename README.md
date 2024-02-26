@@ -1,2 +1,1 @@
-# primer-repositorio-github
-es un repositorio de prueba de henry. modulo 2
+repositorio de prueba para crear un repositorio en linea y clonarlo a mi pc local
